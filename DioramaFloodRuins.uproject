@@ -5,11 +5,11 @@
 	"Description": "",
 	"Plugins": [
 		{
-			"Name": "Volumetrics",
+			"Name": "NiagaraExtras",
 			"Enabled": true
 		},
 		{
-			"Name": "NiagaraExtras",
+			"Name": "Volumetrics",
 			"Enabled": true
 		}
 	]
